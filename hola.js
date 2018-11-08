@@ -1,2 +1,2 @@
 var saludo="hola Mundo";
-alert(saludo);
+alert(saludo;
